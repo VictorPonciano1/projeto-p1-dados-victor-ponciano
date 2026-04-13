@@ -65,7 +65,8 @@ public class Processo {
         return "[#" + protocolo + "] " + solicitante + " | " + tipoServico + " | " + prioridade + " | " + dataHora;
     }
 
-    /* METODO EQUALS */
+    /* METODO EQUALS - SERIA DISCUTIDO EM SALA DE AULA, POREM ISSO ACABOU NAO OCORRENDO, PORTANTO O METODO ESTA SEM UTILIDADE - MESMO ASSIM ELE
+    ESTA COMENTADO PARA CASO SEJA PRECISO UTILIZA-LO NO FUTURO */
 
     // public boolean equals() {}
 

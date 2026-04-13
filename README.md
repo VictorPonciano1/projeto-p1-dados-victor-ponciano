@@ -42,6 +42,8 @@ As etapas foram 3:
 📚 Referências utilizadas em aula:  
 `NossoVetor.java`, `TesteNossoVetor.java`, `Carta.java`
 
+>**IMPORTANTE: No PDF original estava dito que o Método "equals()" seria discutido em aula, porém isso acabou**
+
 ---
 
 ### 🧪 Testes realizados
