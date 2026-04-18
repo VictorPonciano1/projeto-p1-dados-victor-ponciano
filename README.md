@@ -12,7 +12,7 @@
 
 Projeto realizado para estudo e complemento de nota da P1 (Primeira Avaliação) da disciplina de Estrutura de Dados da Fatec Carapicuiba do Curso de Análise e Desenvolvimento de Sistemas.
 
-Este documento tem o proprósito de orientar, guiar e demonstrar todo o projeto desenvolvido.
+Este documento tem o proprósito de orientar, guiar e demonstrar todo o projeto desenvolvido. Caso seja necessário, é possível ver todos os códigos que estão devidamente comentados para uma melhor orientação, tanto minha durante o desenvolvimento quanto para a visualização e correção realizadas pela professora.
 
 ## 🚀 DESENVOLVIMENTO
 
